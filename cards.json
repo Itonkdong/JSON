@@ -7,12 +7,12 @@
   "214002": [
     {"cardType": "Student Debit Card", "cardNumber": "1111-2222-3333-4444", "cardHolderName": "Jane Smith", "expirationDate": "10/24", "balance": 800},
     {"cardType": "Student Travel Card", "cardNumber": "6666-7777-8888-9999", "studentName": "Jane Smith", "university": "ABC University", "tripsLeft": 5},
-    {"cardType": "Specific Student Card", "cardNumber": "9999-0000-1111-2222", "studentName": "Jane Smith", "university": "ABC University", "purpose": "Student Organization ABC"}
+    {"cardType": "Special Student Card", "cardNumber": "9999-0000-1111-2222", "studentName": "Jane Smith", "university": "ABC University", "purpose": "Student Organization ABC"}
   ],
   "218003": [
     {"cardType": "Student Debit Card", "cardNumber": "5555-6666-7777-8888", "cardHolderName": "Bob Johnson", "expirationDate": "08/23", "balance": 1200},
     {"cardType": "Student Travel Card", "cardNumber": "7777-8888-9999-0000", "studentName": "Bob Johnson", "university": "XYZ University", "tripsLeft": 10},
-    {"cardType": "Specific Student Card", "cardNumber": "5555-4444-3333-2222", "studentName": "Bob Johnson", "university": "XYZ University", "purpose": "Student Organization XYZ"}
+    {"cardType": "Special Student Card", "cardNumber": "5555-4444-3333-2222", "studentName": "Bob Johnson", "university": "XYZ University", "purpose": "Student Organization XYZ"}
   ],
   "222004": [
     {"cardType": "Student Debit Card", "cardNumber": "7777-8888-9999-0000", "cardHolderName": "Alice Brown", "expirationDate": "05/22", "balance": 1500},
@@ -20,11 +20,11 @@
   ],
   "225005": [
     {"cardType": "Student Debit Card", "cardNumber": "2222-3333-4444-5555", "cardHolderName": "Charlie White", "expirationDate": "03/23", "balance": 900},
-    {"cardType": "Specific Student Card", "cardNumber": "1111-2222-3333-4444", "studentName": "Charlie White", "university": "DEF University", "purpose": "Student Organization DEF"}
+    {"cardType": "Special Student Card", "cardNumber": "1111-2222-3333-4444", "studentName": "Charlie White", "university": "DEF University", "purpose": "Student Organization DEF"}
   ],
   "229006": [
     {"cardType": "Student Meal Card", "cardNumber": "7777-8888-9999-0000", "studentName": "Eva Black", "dailyLimit": 15, "balance": 180},
-    {"cardType": "Specific Student Card", "cardNumber": "5555-6666-7777-8888", "studentName": "Eva Black", "university": "MNO University", "purpose": "Student Organization MNO"}
+    {"cardType": "Special Student Card", "cardNumber": "5555-6666-7777-8888", "studentName": "Eva Black", "university": "MNO University", "purpose": "Student Organization MNO"}
   ],
   "231007": [
     {"cardType": "Student Movie Card", "cardNumber": "3333-4444-5555-6666", "studentName": "David Green", "university": "GHI University", "balance": 40},
@@ -32,6 +32,6 @@
   ],
   "235008": [
     {"cardType": "Student Travel Card", "cardNumber": "6666-7777-8888-9999", "studentName": "Fiona Grey", "university": "JKL University", "tripsLeft": 8},
-    {"cardType": "Specific Student Card", "cardNumber": "1111-2222-3333-4444", "studentName": "Fiona Grey", "university": "JKL University", "purpose": "Student Organization JKL"}
+    {"cardType": "Special Student Card", "cardNumber": "1111-2222-3333-4444", "studentName": "Fiona Grey", "university": "JKL University", "purpose": "Student Organization JKL"}
   ]
 }
