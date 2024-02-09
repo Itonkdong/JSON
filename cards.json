@@ -33,6 +33,5 @@
   "235008": [
     {"cardType": "Student Travel Card", "cardNumber": "6666-7777-8888-9999", "studentName": "Fiona Grey", "university": "JKL University", "tripsLeft": 8},
     {"cardType": "Specific Student Card", "cardNumber": "1111-2222-3333-4444", "studentName": "Fiona Grey", "university": "JKL University", "purpose": "Student Organization JKL"}
-  ],
-  // Additional entries for other students...
+  ]
 }
